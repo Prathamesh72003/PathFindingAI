@@ -25,10 +25,3 @@ Graphical User Interface built using React Framework to visualize Pathfinding Al
 3. Vertical Division Maze
 4. Horizontal Division Maze
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). To learn React, check out the [React documentation](https://reactjs.org/).
-
-## Thank you
-
-I hope you found the project useful and interesting.
-
--- [Rohith S P](https://www.linkedin.com/in/rohithsp/)
